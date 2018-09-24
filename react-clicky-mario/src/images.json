@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Mario",
+    "image": "assets/images/mario.png"
+  },
+  {
+    "id": 2,
+    "name": "Luigi",
+    "image": "assets/images/luigi.png"
+  },
+  {
+    "id": 3,
+    "name": "Yoshi",
+    "image": "assets/images/yoshi.png"
+  },
+  {
+    "id": 4,
+    "name": "Peach",
+    "image": "assets/images/peach.png"
+  },
+  {
+    "id": 5,
+    "name": "Toad",
+    "image": "assets/images/toad.png"
+  },
+  {
+    "id": 6,
+    "name": "Donkey Kong",
+    "image": "assets/images/dk.png"
+  },
+  {
+    "id": 7,
+    "name": "Wario",
+    "image": "assets/images/wario.png"
+  },
+  {
+    "id": 8,
+    "name": "Bowser",
+    "image": "assets/images/bowser.png"
+  }
+]
